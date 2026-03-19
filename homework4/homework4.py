@@ -81,7 +81,6 @@ def sum_nested(list):
 
 
 #3.4
-print("3.4 division line")
 list = []
 def nested_5_by_5(list):
     for i in range(5):
